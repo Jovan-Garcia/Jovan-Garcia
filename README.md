@@ -28,8 +28,6 @@ I'm a Computer Science student passionate about software quality assurance and a
 Here are some of the projects I've worked on:
 
 - [CodePath](https://826c10f3-c27f-4843-9df2-ea833c795d9a-00-2lois0qru9u4r.picard.replit.dev/): Full-stack web developement program focused on building a fast, responsive website dedicated to health and wellness awareness. 
-- [Project 2](link_to_project_2): Brief description of the project.
-- [Project 3](link_to_project_3): Brief description of the project.
 
 Feel free to explore my repositories for more projects and contributions!
 
