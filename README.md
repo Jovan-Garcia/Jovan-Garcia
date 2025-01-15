@@ -9,7 +9,7 @@ I'm a Computer Science student passionate about software quality assurance and a
 - **Programming Languages:** C++, Python, Java
 - **Web Development:** HTML, CSS, JavaScript
 - **Automation Testing:** Selenium WebDriver
-- ****Version Control:** Git
+- **Version Control:** Git
 - **Tools & Technologies:** Jira Fundamentals, Microsoft Azure Fundamentals
 
 ## 📚 About Me
